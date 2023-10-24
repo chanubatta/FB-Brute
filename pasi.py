@@ -1,5 +1,5 @@
 # Author: TEAM-STLP
-# Github: github.com/STLP-TEAM
+# Github: github.com/STLP-TEA
 # Facebook: Spamming & Termux Learning Point
 
 
